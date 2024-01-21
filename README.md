@@ -20,3 +20,7 @@ formie pliku .csv, aby lista mogła służyć jako dowód obecności studenta w 
 
 ## Wizualizacja wyników pracy
 
+## Twórcy projektu
+- Jan Siemieniec s22596
+- Maciej Salwin s22593
+- Bartek Siemieniec s22793
