@@ -18,3 +18,5 @@ które może pochodzić z bazy zdjęć studentów (każdy student posiada swoje 
 LibCam po każdym zakończeniu działania zapisuje listę obecnych i nieobecnych studentów w 
 formie pliku .csv, aby lista mogła służyć jako dowód obecności studenta w razie niespodziewanych problemów.
 
+## Wizualizacja wyników pracy
+
