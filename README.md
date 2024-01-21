@@ -1,6 +1,7 @@
 # LibCam Projekt README
 
-Witaj w repozytorium projektu LibCam! Ten projekt ma na celu ułatwienie rozpoznawania twarzy studentów podczas wykładów.
+Witaj w repozytorium projektu LibCam! 
+Ten projekt ma na celu ułatwienie rozpoznawania twarzy studentów podczas wykładów.
 Program wykorzystuje bibliotekę `Face_recognition` i potrzebuje tylko jednego zdjęcia studenta do dokładnej detekcji. 
 Został stworzony, aby usprawnić proces rejestrowania obecności studentów na zajęciach.
 
