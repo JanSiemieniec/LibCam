@@ -19,7 +19,7 @@ LibCam po każdym zakończeniu działania zapisuje listę obecnych i nieobecnych
 formie pliku .csv, aby lista mogła służyć jako dowód obecności studenta w razie niespodziewanych problemów.
 
 ## Wizualizacja wyników pracy
-
+![](/wizualizacja.jpg)
 ## Twórcy projektu
 - Jan Siemieniec s22596
 - Maciej Salwin s22593
